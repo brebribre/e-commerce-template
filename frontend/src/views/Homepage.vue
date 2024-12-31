@@ -4,7 +4,7 @@
       <div class="container mx-auto px-4 py-4 flex justify-between items-center">
         <router-link to="/" class="text-2xl font-bold text-purple-700">BalaiData</router-link>
         <nav>
-          <ul class="flex space-x-4 items-center">
+          <ul class="flex items-center">
             <li><router-link to="/shops" class="text-gray-600 hover:text-purple-700">Shops</router-link></li>
             <li><router-link to="/analysis" class="text-gray-600 hover:text-purple-700">Analysis</router-link></li>
             <li><router-link to="/notifications" class="text-gray-600 hover:text-purple-700">Notifications</router-link></li>
