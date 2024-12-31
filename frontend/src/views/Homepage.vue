@@ -6,7 +6,7 @@
         <div class="flex h-16 items-center justify-between">
           <!-- Logo -->
           <div class="flex-shrink-0 mr-8">
-            <a href="#" class="text-2xl font-bold">FitGear</a>
+            <a href="#" class="text-2xl font-bold">Balai Data</a>
           </div>
 
           <!-- Navigation -->
@@ -48,17 +48,14 @@
     <section class="bg-gradient-to-r from-yellow-400 to-yellow-300 text-gray-900">
       <div class="container mx-auto px-4 py-24 sm:px-6 lg:px-8 flex flex-col items-center">
         <h1 class="text-4xl font-extrabold tracking-tight sm:text-5xl md:text-6xl text-center">
-          Elevate Your Fitness Journey
+          Track your shops (and competitors')
         </h1>
         <p class="mt-6 max-w-2xl text-xl text-center text-gray-800">
-          Discover top-quality fitness gear to help you reach your goals. Get fit, stay strong, and push your limits!
+          Discover how other shops are performing and how you can improve your own.
         </p>
         <div class="mt-10 flex justify-center">
           <button class="bg-gray-900 text-yellow-400 hover:bg-gray-800 px-6 py-3 rounded-md text-lg font-medium">
-            Shop Now
-          </button>
-          <button class="ml-4 bg-yellow-500 text-gray-900 hover:bg-yellow-400 px-6 py-3 rounded-md text-lg font-medium">
-            View Workouts
+            View Now
           </button>
         </div>
       </div>
@@ -84,7 +81,7 @@
               </h3>
               <p class="text-sm font-semibold text-gray-900">{{ formatPrice(category.price) }}</p>
             </div>
-            <p class="mt-1 text-sm text-yellow-600">Explore Now</p>
+            <p class="mt-1 text-sm text-yellow-600">Add to tracker</p>
           </div>
         </div>
       </div>
